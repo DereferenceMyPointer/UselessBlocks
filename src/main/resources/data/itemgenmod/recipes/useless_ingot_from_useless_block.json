@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "itemgenmod:useless_block"
+    }
+  ],
+  "result": {
+    "item": "itemgenmod:useless_ingot",
+    "count": 9
+  }
+}

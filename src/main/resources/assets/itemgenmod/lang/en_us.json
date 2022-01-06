@@ -1,0 +1,12 @@
+{
+  "item.itemgenmod.useless_ingot": "Useless Ingot",
+  "item.itemgenmod.useful_pickaxe": "Useful Pickaxe",
+  "item.itemgenmod.useful_helmet": "Useful Helmet",
+  "item.itemgenmod.useful_chestplate": "Useful Chest Plate",
+  "item.itemgenmod.useful_leggings": "Useful Leggings",
+  "item.itemgenmod.useful_boots": "Useful Boots",
+
+  "block.itemgenmod.useless_block": "Useless Block",
+  "block.itemgenmod.useless_ore": "Useless Ore",
+  "itemGroup.itemGenModTab": "Useless"
+}
